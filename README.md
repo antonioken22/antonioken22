@@ -5,7 +5,7 @@
   
   <h2 align="center">
     
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=40&duration=2500&pause=500&center=true&vCenter=true&width=650&height=80&lines=Hi;This+is+Kenette+John+A.+Antonio;From+Cebu%2C+Philippines+%F0%9F%87%B5%F0%9F%87%AD)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=40&duration=2500&pause=500&center=true&vCenter=true&width=650&height=80&lines=Hi;This+is+Kenette+John+A.+Antonio;From+Cebu%2C+Philippines+%F0%9F%87%B5%F0%9F%87%AD)](https://github.com/antonioken22)
   
  I build web apps.
   
