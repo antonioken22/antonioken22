@@ -29,6 +29,7 @@
   ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=next.js&logoColor=white)
   
   #### Backend & Frameworks
+  ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=next.js&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
   ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
   ![Prisma ORM](https://img.shields.io/badge/Prisma%20ORM-%232a2e32.svg?style=flat-square&logo=prisma&logoColor=white)
@@ -39,10 +40,10 @@
   
   #### Design & Creative Tools
   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
-  ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%23239120.svg?style=flat-square&logo=adobe-photoshop&logoColor=white)
   ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=flat-square&logo=adobe-illustrator&logoColor=white)
-  ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-%23000000.svg?style=flat-square&logo=adobe-after-effects&logoColor=white)
   ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-%232f2f2f.svg?style=flat-square&logo=davinci-resolve&logoColor=white)
+  ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%23239120.svg?style=flat-square&logo=adobe-photoshop&logoColor=white)
+  ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-%23000000.svg?style=flat-square&logo=adobe-after-effects&logoColor=white)
   
   
   ## GitHub Stats
