@@ -7,7 +7,7 @@
     
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=40&duration=2500&pause=500&center=true&vCenter=true&width=650&height=80&lines=Hi;This+is+Kenette+John+A.+Antonio;From+Cebu%2C+Philippines+%F0%9F%87%B5%F0%9F%87%AD)](https://github.com/antonioken22)
   
- I build web apps.
+ I build whatever stuff I find interesting at the moment.
   
   ---
   </h2>
@@ -22,6 +22,7 @@
   ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
   ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
   ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
   
   #### Frontend & UI Frameworks
   ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
