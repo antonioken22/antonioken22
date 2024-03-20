@@ -4,7 +4,7 @@
   </div>
   
   <h2 align="center">
-  Just an average Silicon Valley TV series watcher. 
+  Just an average Silicon Valley TV Series enjoyer. 
   
   ---
   </h2>
