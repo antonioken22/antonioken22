@@ -4,10 +4,7 @@
   </div>
   
   <h2 align="center">
-    
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=40&duration=2500&pause=500&center=true&vCenter=true&width=650&height=80&lines=Hi;This+is+Kenette+John+A.+Antonio;From+Cebu%2C+Philippines+%F0%9F%87%B5%F0%9F%87%AD)](https://github.com/antonioken22)
-  
- I build whatever stuff I find interesting at the moment.
+  Just an average Silicon Valley TV series watcher. 
   
   ---
   </h2>
@@ -56,7 +53,7 @@
             <img style="width: 100%; display: block;" src="https://github-readme-stats.vercel.app/api?username=antonioken22&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats">
         </td>
         <td align="center" style="width: 50%;">
-            <img style="width: 100%; display: block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioken22&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+            <img style="width: 100%; display: block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioken22&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="Top Languages">
         </td>
     </tr>
   </table>
