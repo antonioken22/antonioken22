@@ -4,11 +4,10 @@
   </div>
   
   <h2 align="center">
-  Just an average Silicon Valley TV Series enjoyer. 
-  
+    Just an average Silicon Valley TV Series enjoyer. 
+    
   ---
   </h2>
-  
   
   ## Tech Stack
   
@@ -44,17 +43,16 @@
   ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%23239120.svg?style=flat-square&logo=adobe-photoshop&logoColor=white)
   ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-%23000000.svg?style=flat-square&logo=adobe-after-effects&logoColor=white)
   
-  
   ## GitHub Stats
-  
-  <table style="width: 100%;">
+
+  <table>
     <tr>
-        <td align="center" style="width: 50%;">
-            <img style="width: 100%; display: block;" src="https://github-readme-stats.vercel.app/api?username=antonioken22&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats">
-        </td>
-        <td align="center" style="width: 50%;">
-            <img style="width: 100%; display: block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioken22&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
-        </td>
+      <td valign="top" width="25%">
+        <img src="https://github-readme-stats.vercel.app/api?username=antonioken22&theme=dark&hide_border=true&include_all_commits=false&count_private=false" align="left" style="width: 100%" />
+      </td>
+      <td valign="top" width="25%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioken22&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" align="left" style="width: 100%" />
+      </td>
     </tr>
   </table>
 </div>
