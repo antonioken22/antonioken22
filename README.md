@@ -23,6 +23,7 @@
   ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
   ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
   ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
   
   #### Frontend & UI Frameworks
   ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
@@ -55,17 +56,7 @@
               <img style="width: 100%; display: block;" src="https://github-readme-stats.vercel.app/api?username=antonioken22&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats">
           </td>
           <td align="center">
-              <img style="width: 100%; display: block;" src="https://github-readme-streak-stats.herokuapp.com/?user=antonioken22&theme=dark&hide_border=true" alt="GitHub Streak">
-          </td>
-      </tr>
-      <tr>
-          <td align="center">
               <img style="width: 100%; display: block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioken22&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
-          </td>
-          <td align="center">
-              <a href="https://github.com/antonioken22">
-                  <img style="width: 100%; display: block;" src="https://visitcount.itsvg.in/api?id=antonioken22&icon=2&color=1" alt="Visitor Count">
-              </a>
           </td>
       </tr>
   </table>
