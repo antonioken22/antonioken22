@@ -50,14 +50,14 @@
   
   ## GitHub Stats
   
-  <table>
-      <tr>
-          <td align="center">
-              <img style="width: 100%; display: block;" src="https://github-readme-stats.vercel.app/api?username=antonioken22&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats">
-          </td>
-          <td align="center">
-              <img style="width: 100%; display: block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioken22&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
-          </td>
-      </tr>
+  <table style="width: 100%;">
+    <tr>
+        <td align="center" style="width: 50%;">
+            <img style="width: 100%; display: block;" src="https://github-readme-stats.vercel.app/api?username=antonioken22&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats">
+        </td>
+        <td align="center" style="width: 50%;">
+            <img style="width: 100%; display: block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioken22&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+        </td>
+    </tr>
   </table>
 </div>
