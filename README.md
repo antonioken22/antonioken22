@@ -16,15 +16,19 @@
   ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
   ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
   ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=flat-square&logo=arduino&logoColor=white)
-  
-  #### Frontend Frameworks
+
+  #### Full-Stack Frameworks
   ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=next.js&logoColor=white)
+  
+  #### Frontend Technologies
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+  ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-%23000000.svg?style=flat-square&logo=framer&logoColor=white)
   ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
   
-  #### Backend Frameworks
-  ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=next.js&logoColor=white)
+  #### Backend Services & APIs
   ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase&logoColor=white)
+  ![PayMongo](https://img.shields.io/badge/PayMongo-%23000000.svg?style=flat-square&logo=paymongo&logoColor=white)
+  ![Resend](https://img.shields.io/badge/Resend-%23000000.svg?style=flat-square&logo=resend&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
   ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
   
