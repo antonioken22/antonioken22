@@ -1,15 +1,11 @@
 <div>
-  <div style="text-align: center;">
-      <img src="/assets/cover.gif" alt="Cover GIF">
-  </div>
-  
   <h2 align="center">
-    Just an average Silicon Valley TV Series enjoyer. 
+    <a href="https://antonioken.vercel.app/" target="_blank">antonioken</a>
     
   ---
   </h2>
   
-  ## Tech Stack
+  ## Technologies Used
   
   #### Programming Languages
   ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
@@ -28,8 +24,8 @@
   
   #### Backend Frameworks
   ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=next.js&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
   ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
   ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
   
   #### Databases
