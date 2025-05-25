@@ -17,39 +17,51 @@
   ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
   ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
   ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=flat-square&logo=arduino&logoColor=white)
-
+  
   #### Full-Stack Frameworks
   ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=next.js&logoColor=white)
   
   #### Frontend Technologies
   ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-  ![React-Email](https://img.shields.io/badge/React--Email-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
   ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-%23000000.svg?style=flat-square&logo=framer&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=flat-square&logo=bootstrap&logoColor=white)
   ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005F0F.svg?style=flat-square&logo=thymeleaf&logoColor=white)
-  ![WPF](https://img.shields.io/badge/WPF-%232F2F2F.svg?style=flat-square&logo=windows&logoColor=white)
+  ![Windows Presentation Foundation](https://img.shields.io/badge/Windows%20Presentation%20Foundation-%2300836E.svg?style=flat-square&logo=windows&logoColor=white)
   ![Windows Forms](https://img.shields.io/badge/Windows%20Forms-%2300836E.svg?style=flat-square&logo=microsoft&logoColor=white)
 
   #### Backend Technologies
   ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-  ![Nodemailer](https://img.shields.io/badge/Nodemailer-6DA55F.svg?style=flat-square&logo=nodemailer&logoColor=white)
   ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase&logoColor=white)
   ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=spring-boot&logoColor=white)
   ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
+
+  #### Hosting Platforms
+  ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
   
-  #### Third-Party Services
+  #### Authentication Services
   ![Clerk](https://img.shields.io/badge/Clerk-%23000000.svg?style=flat-square&logo=clerk&logoColor=white)
-  ![PayMongo](https://img.shields.io/badge/PayMongo-6DA55F.svg?style=flat-square&logo=paymongo&logoColor=white)
-  ![Resend Emails](https://img.shields.io/badge/Resend-%23000000.svg?style=flat-square&logo=resend&logoColor=white)
-  
-  #### Databases
+  ![Firebase Authentication](https://img.shields.io/badge/Firebase%20Authentication-%23039BE5.svg?style=flat-square&logo=firebase&logoColor=white)
+
+  #### Database Services
   ![Firebase Firestore](https://img.shields.io/badge/Firebase%20Firestore-%23039BE5.svg?style=flat-square&logo=firebase&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
   ![MS Access](https://img.shields.io/badge/MS%20Access-%231f6f8b.svg?style=flat-square&logo=microsoft-access&logoColor=white)
 
-  #### Storage Buckets
+  #### Storage Services
   ![Firebase Storage](https://img.shields.io/badge/Firebase%20Storage-%23039BE5.svg?style=flat-square&logo=firebase&logoColor=white)
+
+  #### Payment Services
+  ![PayMongo](https://img.shields.io/badge/PayMongo-6DA55F.svg?style=flat-square&logo=paymongo&logoColor=white)
+  ![Stripe](https://img.shields.io/badge/Stripe-%230084FF.svg?style=flat-square&logo=stripe&logoColor=white)
+ 
+  #### Email Services
+  ![React-Email](https://img.shields.io/badge/React--Email-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+  ![Nodemailer](https://img.shields.io/badge/Nodemailer-6DA55F.svg?style=flat-square&logo=nodemailer&logoColor=white)
+  ![Resend Emails](https://img.shields.io/badge/Resend-%23000000.svg?style=flat-square&logo=resend&logoColor=white) 
+
+  #### Notification Services
+  ![Firebase Messaging](https://img.shields.io/badge/Firebase%20Messaging-%23039BE5.svg?style=flat-square&logo=firebase&logoColor=white)
   
   #### Design & Creative Tools
   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
