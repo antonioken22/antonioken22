@@ -32,6 +32,7 @@
 
   #### Backend Technologies
   ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+  ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
   ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase&logoColor=white)
   ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
   ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=spring-boot&logoColor=white)
@@ -41,15 +42,18 @@
   ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
   
   #### Authentication Services
+  ![Supabase Authentication](https://img.shields.io/badge/Supabase%20Authentication-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
   ![Clerk](https://img.shields.io/badge/Clerk-%23000000.svg?style=flat-square&logo=clerk&logoColor=white)
   ![Firebase Authentication](https://img.shields.io/badge/Firebase%20Authentication-%23039BE5.svg?style=flat-square&logo=firebase&logoColor=white)
 
   #### Database Services
+  ![Supabase Database](https://img.shields.io/badge/Supabase%20Database-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
   ![Firebase Firestore](https://img.shields.io/badge/Firebase%20Firestore-%23039BE5.svg?style=flat-square&logo=firebase&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
   ![MS Access](https://img.shields.io/badge/MS%20Access-%231f6f8b.svg?style=flat-square&logo=microsoft-access&logoColor=white)
 
   #### Storage Services
+  ![Supabase Storage](https://img.shields.io/badge/Supabase%20Storage-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
   ![Firebase Storage](https://img.shields.io/badge/Firebase%20Storage-%23039BE5.svg?style=flat-square&logo=firebase&logoColor=white)
 
   #### Payment Services
