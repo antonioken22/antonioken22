@@ -31,7 +31,6 @@
   ![Windows Forms](https://img.shields.io/badge/Windows%20Forms-%2300836E.svg?style=flat-square&logo=microsoft&logoColor=white)
 
   #### Backend Technologies
-  ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
   ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
   ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase&logoColor=white)
   ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
