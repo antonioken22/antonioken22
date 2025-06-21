@@ -1,5 +1,5 @@
   <h1>
-    <a href="https://antonioken.vercel.app/" target="_blank">antonioken</a>
+    <a href="https://antonioken.vercel.app/" target="_blank">antonioken.vercel.app</a>
   </h1>
 
 
@@ -81,6 +81,6 @@
   # GitHub Stats
   
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=antonioken22&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="220" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioken22&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="220" />
+  <img src="https://github-readme-stats.vercel.app/api?username=antonioken22&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioken22&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="150" />
 </div>
