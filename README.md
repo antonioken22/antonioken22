@@ -79,9 +79,3 @@
   ![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-%232f2f2f.svg?style=flat-square&logo=davinci-resolve&logoColor=white)
   ![After Effects](https://img.shields.io/badge/Adobe%20After_Effects-5C2D91.svg?style=flat-square&logo=adobe-after-effects&logoColor=white)
   
-  # GitHub Stats
-  
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=antonioken22&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioken22&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="200" />
-</div>
