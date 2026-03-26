@@ -52,62 +52,8 @@
 <table align="left" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center" valign="center" width="130" height="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
-      <br>MySQL
-    </td>
-  </tr>
-</table>
-
-<table align="left" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center" valign="center" width="130" height="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="48" height="48" alt="Firebase" />
-      <br>Firebase
-    </td>
-  </tr>
-</table>
-
-<table align="left" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center" valign="center" width="130" height="130">
-      <img src="https://cdn.simpleicons.org/stripe/635BFF" width="48" height="48" alt="Stripe" />
-      <br>Stripe
-    </td>
-  </tr>
-</table>
-
-<table align="left" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center" valign="center" width="130" height="130">
-      <img src="https://cdn.simpleicons.org/react/61DAFB" width="48" height="48" alt="React-Email" />
-      <br>React-Email
-    </td>
-  </tr>
-</table>
-
-<table align="left" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center" valign="center" width="130" height="130">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="48" height="48" alt="Vercel" />
       <br>Vercel
-    </td>
-  </tr>
-</table>
-
-<table align="left" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center" valign="center" width="130" height="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
-  </tr>
-</table>
-
-<table align="left" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center" valign="center" width="130" height="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS" />
-      <br>AWS
     </td>
   </tr>
 </table>
